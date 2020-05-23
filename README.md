@@ -8,4 +8,4 @@
 * https://www.photopea.com/ Advanced online free image editor (**~Photoshop**)
 
 ### video
-* https://obsproject.com/ Free and open source software for video recording and live streaming
+* https://obsproject.com/ Free and open source software for video recording and live streaming [tutorial](https://youtu.be/DTk99mHDX_I)
