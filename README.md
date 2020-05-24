@@ -10,5 +10,8 @@
 ### planning
 https://www.mindmaps.app/ Mind Mapping Tool
 
+### startup
+https://startupstash.com/ A curated directory of tools and resources for Startups
+
 ### video
 * https://obsproject.com/ Free and open source software for video recording and live streaming [tutorial](https://youtu.be/DTk99mHDX_I)
