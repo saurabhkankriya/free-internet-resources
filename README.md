@@ -8,6 +8,9 @@
 ### image
 * https://www.photopea.com/ Advanced online free image editor (**~Photoshop**)
 
+### gentics
+https://learn.genetics.utah.edu/ 
+
 ### planning
 https://www.mindmaps.app/ Mind Mapping Tool
 
