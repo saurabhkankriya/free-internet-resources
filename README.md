@@ -11,6 +11,9 @@
 ### gentics
 https://learn.genetics.utah.edu/ 
 
+### github
+https://lab.github.com/  Courses by github
+
 ### planning
 https://www.mindmaps.app/ Mind Mapping Tool
 
