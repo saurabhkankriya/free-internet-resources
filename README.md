@@ -27,3 +27,4 @@ https://www.mindmaps.app/ Mind Mapping Tool
 
 ### video
 * https://obsproject.com/ Free and open source software for video recording and live streaming [tutorial](https://youtu.be/DTk99mHDX_I)
+* https://gifcap.dev/ Browser based gif creator
