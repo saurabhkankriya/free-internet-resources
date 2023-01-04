@@ -11,6 +11,9 @@ https://drawabox.com/ learn how to draw
 * https://audio-joiner.com/ Merge your mp3 files
 * https://www.acapella-extractor.com/ isolate vocals from any song
 
+### calendar
+https://www.calendarpedia.com/
+
 ### image
 * https://www.photopea.com/ Advanced online free image editor (**~Photoshop**)
 
@@ -27,6 +30,9 @@ https://drawabox.com/ learn how to draw
 
 ### github
 https://lab.github.com/  Courses by github
+
+### mindmap templates
+https://www.biggerplate.com/
 
 ### planning
 https://www.mindmaps.app/ Mind Mapping Tool
