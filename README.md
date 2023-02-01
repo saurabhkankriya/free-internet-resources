@@ -14,8 +14,12 @@ https://drawabox.com/ learn how to draw
 ### calendar
 https://www.calendarpedia.com/
 
+### drawing tools
+- Excalidraw: online drawing tool https://excalidraw.com/
+
 ### image
 * https://www.photopea.com/ Advanced online free image editor (**~Photoshop**)
+- https://html-color.codes/image Find color from an image: 
 
 ### job portals
 * https://stackoverflow.com/jobs/remote-developer-jobs Stackoverflow jobs
@@ -37,13 +41,25 @@ https://www.biggerplate.com/
 ### planning
 https://www.mindmaps.app/ Mind Mapping Tool
 
+### reddit
+- reddit manager 
+- https://anvaka.github.io/sayit/?query=python The graph of related subreddits
+- https://subredditstats.com/ 
+
 ### resume maker
 * https://rxresu.me/ 
 * https://gitconnected.com/resume-builder
 
+### social media
+- Nice background to your tweets/ IG posts: https://poet.so/
+
 ### startup
 * https://startupstash.com/ A curated directory of tools and resources for Startups
 * https://starthouse.xyz/ Collection of over 600 pitch decks
+
+### writing
+- Copy Writing Headlines: https://marketingexamples.com/
+
 
 ### video
 * https://obsproject.com/ Free and open source software for video recording and live streaming [tutorial](https://youtu.be/DTk99mHDX_I)
